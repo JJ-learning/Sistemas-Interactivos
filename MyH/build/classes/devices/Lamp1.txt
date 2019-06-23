@@ -1,0 +1,4 @@
+Lamp1
+1.4.6.8
+Off
+blue

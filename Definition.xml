@@ -1,0 +1,1551 @@
+<Shapes xmlns="http://www.evolus.vn/Namespace/Pencil" 
+		xmlns:p="http://www.evolus.vn/Namespace/Pencil" 
+		xmlns:svg="http://www.w3.org/2000/svg" 
+		xmlns:xlink="http://www.w3.org/1999/xlink" 
+		id="MotoProject.Icons" 
+		displayName="MotoProject" 
+		description="Iconos de MotoProject" 
+		author="Luis" 
+		url="http://www.evolus.vn/Pencil">
+
+<Shape id="img_0" displayName="1432135828_17_Question-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_1" displayName="1432135913_44_Graph_all-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAABDnSURBVHja7J17dFXVncc/J7mJAQnyMCHCAsFYYRqxSHDAd7VSHBynLSpbx+dYmXFcIz7GGavOjO04tlqndVpttQ+qndbiVqsyWKuMiIDL8vZRKA9xIoIQHoEQ84Ik98wf+3fby83eJ697Y3Lv/q51l5h97jnn7v39/fbvtfcOaI9TgBuA6cBo4Gg8+jNagA+B14EfA+tcFxYBPwLiQOg/Wfv5KTDQNvhLfefkzGdZggT5QoAfALO8tswZHA+UAgsDmfPfAQLfLzmHyfnAPcBU3xc5iXgAbAQm+L7ISWwOgHrv6uUsDgdiFXrkKPJ8F3gCeHgCeHgCeHgCeHgCeHgCeOQaeppZ8uh9FAF3As3pGD9PgP6FADgb2EZ6UsOeAP0MJwKLSF/hjidAP8Jg4IeYMq/QEyD3MBuTvAs9AXIPxwEr0zz4oXcD+4+7fi1Q6d3A3MQ0oJrMFIh6AvRxDAGed1j9rZ4A2a/6rwaaHH2/1hMguzEOU7Ft6/dG4HJPgOxFAfANoM3S53Hg58AgT4DsxVRgt6PPdwCT0mXEewL0TcPvRUd/twL/AhSmgwAx39fpg1IqwCRrQq11d4UjAL4MXOhofxv4JXA4He+cjrLwwA+8KgDKgZNlft4EfKC1PtSN25UDC4AKS1sjcB3wbEocp0duhkfPBj8GXAa8BMwHtPjts5VSRY6vDQDGAJNT/n4UMAf4M0fA7jngt+n2Mz16hknAt0VyY/IZD/wHcLZSytbHTcBHtN+s4VTgese47AD+C5MM8gToI9JfhInRj7Q0jwZuFUnvDAYD/wSUWNpagYeB32ci0uTRfZQDlzjsoAA4H7hKKVXciXH4CnCRo3018IwQwROgj0h/oQxaWcRlRwE3AdPFUHRhHPDPcn0qGoCHgI8z8Ts8AbqPUZg4fdCBh1SGKeA8xXFNkRh+EyIMv1cz9SM8Abpv+c8ATuikm1wJ/L1SqsxhRN7gGIuPgO+K++cJ0IcwTKTfFkjbA6T6//liK1ycMhUcDfwjMNxh+D0IvJfJH+IJ0D1Mxl6dEwd+Abwm/07GEOAO4M8lYggwE7jY8YxlHBnwyQh8KLjr6n8w8DcOg2078DPgWDHsPpvSfqLYA7fJ/9/ruE+dSP++TP8erwG6jlOwx+kTBtv/idv2iAxkan9Pb21tnROLxeZaCJK4z1OiAfAaoG9JfxEmFj/Y0lwL/Fpr3SzXvgCcBlyT0s9FNTU1c+LxeKHDg9gGfB+z7AuvAdzIxxREHMOfUqOZxoSIOftVYH2KMfh9/lS2BUBLSwtbtmwZFo/HBzkMv28BW3qrE/srAYqBv5b59leYEOqJGZb+QkzSxxaqbQSe0Fp/kviDpIPXy1y+K/H3jz/+mOrqatdjFmMifnFPgOhp62HgCRmQmcB9QoSKDD53DKAcansJsCb1j1rrNhnUeUBTQ0MDGzduJB63ju9B4JsylZBLBCjo4vV/K1Z4fkqw5TTgcUwSJhPSPxMYa2k+DPxUa73f9l2tdR3wRFtb25LNmzdTV1dnuywMguApYFVvd35fIEBX1N0JwN0R730W8Bj27FxPMFyMuXxL23vA7zr4/rZ169Ytq6qqsv7WAQMGNI0ZM+b53jL8+hoB2rpw7RWYGHwUZmLy88PS+I7nABMd7/4LoCbqy1rrEVVVVTNbW1vb9XdeXh4TJkwomDp16tlKqUG5SIDOYjTwD524LhCi3I2pvOmp+h8i0l/ocNle1lq3dmCzXBKG4em2xpKSEsaOHVsQBMGNwAyZbjwBLLiO6NRr6u+6BZNi7SkJPicawBaw0ZiETRROkndpZ+sUFBRQUVFBYWEhwAhMqLgiKVTsCSAoA27shrdwt8Vg7Grg51qJN6RiH/CM1jqqOrdI3rvc1jhu3DiGDTtipqrE1A8c6wlwJK6JMOyqaZ99S6BQ7IHZ3XzuROCvHG0vdyJg8wUhUDuJLiws3F9eXn4oPz8/1SOaDcxSSh3lCWAwApjraAuBf5U4gGsePhpzJM5F3XD9lMOYrAf+W2sdlac/TqYgW9i4pbCw8JHi4uJXLUbwYJkKznAUlGYdAa7ooP3vIiz/94FfY0qm/jPCpRyKOTLtrC681/HA7KamJtt8vIyI49dk+rkcOMPRvqylpeXxIAgeBrY63N3b5R2yngDzI9rGAjdHSP9DwAEJxvw7ZsGka6HESMyRaRM7Kf1fAkYNGDDAFviZR/tMX6rhNxd7sq0WeODQoUPVEvh5FHvW8ALgWkk/5+wUcGuEQbQFs34ugSbgLuA3Efcbjwkhf6aD5x4nc7etf1YBy7TW8QjD7yaH9IZCnmUSH2gUDTbfMoUVifY7v4OC0qwlwEkyCC7p/y7tCyZ2Y0LFSyPuW0lEyFjm3QuwF2m2Ak9qraMKNc4Vo9U2dWySqehwUpBoF6Z2YLXD+7krk65hXybAzZgyKhs2YLJmNuwCvgq8G3Hv88RmsGmXwcCVDvW9FZPciXJX78FkK21TxyOYghEbMR6Sdw8thL0Zc85fzhDgBBkEG+Li2tVGfP8D8f+3OdoDTCbxfkw9QTJOw2zKZHvur4CdEYbflRGG31LMmsF23opkDd8AnsReUHop8BWl1IBcIcAcsdxtWA8s7MQ93saUW++OIMFXMfV5+aL+B8m0M8ARb3ghIvBTIYafLeh0QCTc9S5orQ9g6htsBaXFcu8p6XYN+yIBRgkBXNL/LTqfM38NE4k76GjPx0QLEwN3MiaZZLM5XnC4bAhhbnLYFXHxPpZ24n0/EO221ULW8RJXGJPtBLgFe508Mq+/0sX7vSg+dZOjvQC4PxaLXS8xCZvdUQc8naj3s+AM+a7NUPuDBKI63NBBqohWiX1y0OEazkmna9jXCHCCuD7pkP5k/FwkvcUlwW1tbd/ZsWPHVbgrftY7vjsswvA7JO+8rbMvKptKLHTYC0fJtDU9Xa5hX6sKvgt76DQxpy90uG7FMhCtwH6tdaq0t2F22S4VNdpung7DsHjt2rXEYjHKyo5IOjZj6v1qHQJ0DfZsIaKtXu5qJ2itq5VSj2JK0CtTpoJSTKh4o2iXrNEAk3GHhRPS35wy8KOUUrdJ8GeJ/PdrSqnRDjfsQeAnOKKFzc3NrFmzhgMHDiT/eQXwluO9Tk42IlNQI6q8tpv98XtMjeBOiz0wBZirlBqRLQQoko50nWG8gqQIn1JqpFLqG5hCzO9gTtAYh8nd3w3c43CZDgJfkxiClQQNDQ2sXr2ahoaGRODnh47Az0AxHqMMv27X+GmtW8SIfYz2i0PzMVXRl2ULAU4CZjna2oAHgGaR+Dtl4P9NAi+Bwx93Lcc+KEbhEtfLHDhwgJUrV1JfX78lwno/B3eV8LudNfw6IEEdpuRscYprGIjNcUu22AC3i0TZsPK88877qLS09AEJ7nQmIjYIs3xrpaN9p7iHT9N+oyYA9u7dy/Lly8PW1lZbHw0Xe8VWKNKMSUxtT1PfbBctN4H2OYxx2aABTsIsnbbO/ZWVlZ+UlpYuxSyq7Eo49CKl1DER7e8PGTLk5oEDBzo3Xaqrq/tsY2PjvZaBvho4M8Lt/N90dY4knVYB37O4hvnZQIDbHZLE8OHDw7Fjx86gfbi2M6jAXsf/R8yYMSNv2rRpgSXlm6xqb5DpJvGOp4oVbuv8vZhFKw3p7CDxap4VjdWSTYGgCpGm9j0fBFRUVOTHYt2epQZg4vo4XMci4IqSkpKBU6ZMSRRmuvroNplvj5HBH+kw/H5MdKFIT0iwB5NMWkMal459mgRIFG1a5/6SkhJKSzvU+CHwIfZQb4DZkcM1suMxSZZg5MiRVFZWEkG2GGZ/3vsx27jaDL8NYvm3ZrDPNouG2dPvCVBUVHRmEASXRUg/KQWTqdK2CZMzmIY7PHwmlsIM2ePnUpIWeo4ePZqJEyeSl5cX5are6CBsM2ZjyI8y2Wey/mARpqikuV8SQCkVmzVr1gXFxcXPhmFoDWeWlZVRUlLiGvh1En07XWs9T2u9G7NNq82vH+qw8keRErsPgoDy8nLKy8urIqQ436GFXpSIX8ZX9WqtDwoBFqXjebFeHPhBIpF31NbWfr6mpsb67Ly8PCoqKgiCIDUWsE7U30Ktdarlvgb4hPZh5Dzgi0qp5yTnnqj4+bLNhcrPz2+ZOHHi17du3XpqGIZzOykge8RNq+9FOdomzzxegl99lwCytOpcsfbPCMMwtnnzZtcSacrKypIXS7QBy2XgX7cMfAI7MLmCcy1tF4jRlvDLS3HX+71TUFDwShiGCzHl6JcTvQ9gHBNafq83tajWOq6UWiM2yTN9kgAi8RdiNm+oTKjPmpoadu3ahUv6x48fTxAELRKB+ybwu4g0bKJD6pVSLzkIMBKzMidBgOnY9xFowyR9EgbWbWL1z4x49HpMFc9hehla60alVI93Do9lSOJnisRPSp03N23a5JT+ESNGxIcOHbpEBv6tjgY+BcvEMCqy/MbPA2/Iu12JfaFnVYoxuVuMvvmOoE8TJkH1wadlSEdoxN4ngFLqWIno3SrRvXYqdv/+/U7pD4IgPmjQoDsLCgoe7eLAJ7BVPINJlrYvKaUelrazHIbc0yRt5SLYjsm/zwNOT/pNDZjM4ov0c/T4xBClVIkYVXfIwFvnzDAMefPNN9m5c6eLAL8Nw3BWT9wbpdR94q/b3LQvYvbiv87Svhu4UGv9juPWo4XckzDVQS/LFNXUB8Yw/LQ1wFuYDZoi69b37dsXtTnSoTAM70uDb7sYk+6NWXz4WcBfOjpwAdELPbdjCkoKxVZoIkuQjjjAZzoa/La2NjZs2OCc+zGrY1an4V024i7bvgR7rWE9ML+DhZ6IoVefTYPfa4Gg6urqhj179rhGv1HcmR6HUCUotMjRPMpB1OWY0zlzEpkmwO7m5uZvr1ixYkMYOo+qf4401LYl4RVHhMz2/EOYZd61ngDpxT7g68DkBQsWvNba2jrZcV0TZo1fOvE2ZiFGZ7AOsyInZ5HOOECIyYc/AfxMa71F7v9UxHN+g8mipRM7xDC9uIPr2jDZu72eAD1DjVjJGrNnTvLixy9gCjZd0v8gaU6faq0PK6UWiMUfZZy+DyyKWObtCdBJnAPssVTOFolP7srp/k8Gja9VYly6qowTp29Xk+OIpUHiXAbc+ZjomcvyT7v0J6EKU1c/zWWcAi91sL+fNwJ7gCLMcimX9P+SDByCmETKeszSKhcWYl+n7wmQJvwFMNXRdhBT559p6XsF2O94/pOdCPx4AnQTQzqQ/h+Iis403scc2JCcMavHrLR51w+9QSaOj1eYnTTyHNL3ObqwWrYnUEqVYnb7mi7vuRh4Pinnnw0I+xIBhmAWRUxxXPsYZiOFXoOUfycKORu7mWrOWgIkbtCTTzIulQCL7bo67KdkeXzK45cuAhRhauNc1/0If0pZVhPgqgjpr/XSn90EGIIpkHRd8z0/TtlNgKsx4VVb+x7SvLOVR98iwHBMRs/Vfq8fo+wmwPUR0l+NWWDhkcUE+IOX/twmgJ/7+zEB0pELcBVd/IQML5f26BsqxPbZi9n10yMHNIANj+Pz7TmrAXbS8fGuHlmqARIHOX3sxyU3NcCH9OKplx59SwMkpH+fH5P+g3QUhHj0Y+T5LvAE8PAE8PAE8PAE8PAE8PAE8Mg1ArT4bshZHM7DhG89chNVecDrvh9yFosDzH76a31f5CQm5WF2yprn+yLn8DhJy+QHYnbbDv0nJz5vYA7VOgIDMade+Q7K7s9jyYNvq+g9FXMY0/mYY1UKvbbs364eZkeWxSLgR+yO8v8DAByT/30qrpX8AAAAAElFTkSuQmCC]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_2" displayName="1432135913_44_Graph_alone-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_3" displayName="1432135913_44_Grid_alt-128" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAm1JREFUeJzt3D9OVFEYQPHzBmMQeztj7KyM0tibuAHXoKtwHcY/0VVYQ5ReIpWxgkVYQYIWowlBrAa4D875JbeY8DL5kjlcmJn33sS/HgIvgGfAXeD2Gcfk6jgCDoBt4D2w+78D14F3wDHwq3Vt1wdgg1PWgS8zGK51OWuHPxGssfQaeE4s7gF3gE8Ty7/534Bp6EgZYXMNeAU8GT1JhjiegO/Ag9GTZIgfE/CT3upZHU4s/yuM1GL0ABmrAOQKQK4A5ApArgDkCkDuxjk8R98hjLXS5zjtAHIFIFcAcgUgVwByBSBXAHIFIFcAcgUgVwByBSBXAHIFIFcAcudxPsCqLvq6hFXPV5j7fCtpB5ArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQm8N1AXO/z+Dc51tJO4BcAcgVgFwByBWAXAHIFYBcAcgVgFwByBWAXAHIFYBcAcgVgNwczgeY+3345j7fStoB5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOTmcF3A3O/DN/f5VtIOIFcAcgUgVwByBSBXAHIFIFcAcgUgVwByBSBXAHIFIFcAcgUgN3Hx98HLjLUDyBWAXAHIFYBcAcgVgFwByC2Ao9FDZJjDBXAweooMs78AtkdPkWG2JmAT+Dp6kgzxaAHsAh9HT5JL9xbY+/tgA9hh+cVQ6/qvz8AtTtkA3s9guNbFrjecePHPuvT5MfASeArcB26ecUyujkNgH9hi+Qu+d/KHvwHRVgug92R9DAAAAABJRU5ErkJggg==">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAm1JREFUeJzt3D9OVFEYQPHzBmMQeztj7KyM0tibuAHXoKtwHcY/0VVYQ5ReIpWxgkVYQYIWowlBrAa4D875JbeY8DL5kjlcmJn33sS/HgIvgGfAXeD2Gcfk6jgCDoBt4D2w+78D14F3wDHwq3Vt1wdgg1PWgS8zGK51OWuHPxGssfQaeE4s7gF3gE8Ty7/534Bp6EgZYXMNeAU8GT1JhjiegO/Ag9GTZIgfE/CT3upZHU4s/yuM1GL0ABmrAOQKQK4A5ApArgDkCkDuxjk8R98hjLXS5zjtAHIFIFcAcgUgVwByBSBXAHIFIFcAcgUgVwByBSBXAHIFIFcAcudxPsCqLvq6hFXPV5j7fCtpB5ArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQKwC5ApArALkCkCsAuQKQm8N1AXO/z+Dc51tJO4BcAcgVgFwByBWAXAHIFYBcAcgVgFwByBWAXAHIFYBcAcgVgNwczgeY+3345j7fStoB5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOQKQK4A5ApArgDkCkCuAOTmcF3A3O/DN/f5VtIOIFcAcgUgVwByBSBXAHIFIFcAcgUgVwByBSBXAHIFIFcAcgUgN3Hx98HLjLUDyBWAXAHIFYBcAcgVgFwByC2Ao9FDZJjDBXAweooMs78AtkdPkWG2JmAT+Dp6kgzxaAHsAh9HT5JL9xbY+/tgA9hh+cVQ6/qvz8AtTtkA3s9guNbFrjecePHPuvT5MfASeArcB26ecUyujkNgH9hi+Qu+d/KHvwHRVgug92R9DAAAAABJRU5ErkJggg==]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_4" displayName="Darktheme-1" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAYAAADktbcKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAJcSURBVHja7N0xahRhGIDhdzZBgvZ2InZWommstBCEpPUMpvUCnsJCkEhOYaNFAmJtMJVYJYeQBBJwLYywxDYbzMzzVLszzc838O6/DMwM/etB9bJ6Xt2pbgVcV2fVUbVXbVf7iyeHhc9r1Ztq68JxYDx2qlfV8WIA1qpP1VPzgdH7Um1UxyvnB95WL8wFJuFudbv6MJz/5/9m2w+Ts75Sva4emwVMzq+h+l7dNwuYnB9D9TO3+mCKTodqbg4wTTMjAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABABYttXrtuD5fLmvMRiGYdTru8q1Ts1lXhs7AEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEAATACEABAAAABAAQAEABAAAABAEZjqDwcHuwAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAD4v6xetwXP58t9fMEwDKNe31WudWou89rYAQACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgACIARgAAAAgAIACAAgAAAAgAIADAaQ+Xh8GAHAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIADA8gJwZgwwSaez6sgcYJIOZ9WeOcAk7Q7VevXVLGByHs6q/WrHLGBS3lUHw/mXm9XH6om5wOh9rjark7+3AY+rjeq92cDof/k3q5P683rwix5VW9Wz6l51w8zg2jqtDqvdars6WDz5GwAA//8DAJAYPlzL9pe/AAAAAElFTkSuQmCC">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">256,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[256,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAYAAADktbcKAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAJcSURBVHja7N0xahRhGIDhdzZBgvZ2InZWommstBCEpPUMpvUCnsJCkEhOYaNFAmJtMJVYJYeQBBJwLYywxDYbzMzzVLszzc838O6/DMwM/etB9bJ6Xt2pbgVcV2fVUbVXbVf7iyeHhc9r1Ztq68JxYDx2qlfV8WIA1qpP1VPzgdH7Um1UxyvnB95WL8wFJuFudbv6MJz/5/9m2w+Ts75Sva4emwVMzq+h+l7dNwuYnB9D9TO3+mCKTodqbg4wTTMjAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABABYttXrtuD5fLmvMRiGYdTru8q1Ts1lXhs7AEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEAATACEABAAAABAAQAEABAAAABAEZjqDwcHuwAAAEABAAQAEAAAAEABAAQAEAAAAEABAAQAEAAAAEABAD4v6xetwXP58t9fMEwDKNe31WudWou89rYAQACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgACIARgAAAAgAIACAAgAAAAgAIADAaQ+Xh8GAHAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIACAAAACAAgAIADA8gJwZgwwSaez6sgcYJIOZ9WeOcAk7Q7VevXVLGByHs6q/WrHLGBS3lUHw/mXm9XH6om5wOh9rjark7+3AY+rjeq92cDof/k3q5P683rwix5VW9Wz6l51w8zg2jqtDqvdars6WDz5GwAA//8DAJAYPlzL9pe/AAAAAElFTkSuQmCC]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="256" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_5" displayName="Whitetheme" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAQAAABOvH+BAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAFVSURBVHja7N0xEoIwEEDRXeT+N8ZYyNBZ4IDOZt9rtHBSmJ/EhpgjdscbWsj9ZZj81hEspr+x8Q6AzpvAsP5bswMIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAFQznrXwI+Tn99+PN53o/7LVi+AiOfFG9HV450fdcZt2hHgNwACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAiACax12lqsgBv4zyBHAAJAAAgAASAABIAAEAACQAAIAAEgAATAfNwTWIJ7AsM9gY4ABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAALgA/cENg/APYGOAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAAKgWQPoSGks7gCPAHtB3/Ufk8XS4x8TbTX5ExAsAAP//AwBZ+xsMIwzDewAAAABJRU5ErkJggg==">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">256,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[256,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAQAAAACACAQAAABOvH+BAAAACXBIWXMAAAsTAAALEwEAmpwYAAAAIGNIUk0AAHolAACAgwAA+f8AAIDpAAB1MAAA6mAAADqYAAAXb5JfxUYAAAFVSURBVHja7N0xEoIwEEDRXeT+N8ZYyNBZ4IDOZt9rtHBSmJ/EhpgjdscbWsj9ZZj81hEspr+x8Q6AzpvAsP5bswMIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAFQznrXwI+Tn99+PN53o/7LVi+AiOfFG9HV450fdcZt2hHgNwACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAAJAAAiACax12lqsgBv4zyBHAAJAAAgAASAABIAAEAACQAAIAAEgAATAfNwTWIJ7AsM9gY4ABIAAEAACQAAIAAEgAASAABAAAkAACAABIAAEgAAQAALgA/cENg/APYGOAASAABAAAkAACAABIAAEgAAQAAJAAAgAASAABIAAEAACQAAIAAEgAASAAKgWQPoSGks7gCPAHtB3/Ufk8XS4x8TbTX5ExAsAAP//AwBZ+xsMIwzDewAAAABJRU5ErkJggg==]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="256" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_6" displayName="1432053073_12_Zoom_in-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_7" displayName="1432053087_13_Zoom_out-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_8" displayName="1432134171_04_In_alt-128" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAABEtJREFUeJztnT1rFFEUhp+oaBKws7IQGxEbTaK/QBB/iiD4H67/QTEKqawsBVsTYhA7Sz8ChpRai+CKZC0mgkg2J7v3zp4797wPnDLDO+d9ZrI7WbIQjzVgHdgFRsC48RkBn4EnwEqB/Q2WZWAD/0I85wB4Bixl7nJwLAM7+BdQy2wTTILoV/5Rsw6wkLHUobAKvPcOUSFjYPW0d4o5kIBb3iEqZAE4iHAH2AWueIeolE8RBBgBZ71DVMrolHcC4cq5CALseweomQgCbHoHqJkIrwFW6N4GRjjXqYnwNvArcBG46R1E+LFI9/jT++lbdRPhDgDwG3gBXKC7E+jXwSFRBIBOglfAS7q/ip0/nDOeobzRlTB8xjk/HOFtoDgGCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRCcCAIk7wDClzFtS5D7ucDm+XuiyTlHX0gAg39PNvlG6QUJYPD/CSfXNOWRAAZHnXTyDFQYCWAw6cSTY6aSSACD404++cUqhgQwsBaQ3JKVQQIYnGQJyStcASSAwUkXkZzy5SIBDKZZRvKJmIUEMJh2Ickl5exIAINZlpI8gs6IBDCYdTHJIessSACDnOWk+cedGglgkLugNPfE0yEBDHIXVLsEEsCghAA1SyABDEoJUKsEEsCgpAA1SiABDEoLUJsEEsCgDwFqkkACGPQlQC0SFBVgEXgAvAN+FDh4hEkTipkXxQS4RvcFg94LHeKkifX0TxEBLgPfChws8qTJHfVKEQHeFDiQxkeCbAHuFjiIxk+CbAGeFziIxk+CbAH2ChxE4ydBtgC/ChxE4ydBVsYI/x9AGHzB/0ppcdIUHeSQfQd4O6egkXiI/xPCE3MH/6ulpUlTbT+f3LwAbBU4kGagD4IALtF9waL3Aoc86ZiS+qSIAABXgQ8FDhhx0sR6+qeYAADngPt0Lwy/Fzh4hEkTipkXRQVokZbLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmLRcPkgAk5bLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmLRcPkgAk5bLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmCTvAD2TJcCCQ2BRlqyrWP8gIjgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgRBVgD1oFdYET+J2q8R5yQZWAD/8JqmxAsAzv4L7vGCYGu/AkT4TOBq8B77xC1EuFF4D3vADUTQYDb3gFqJsKvgBFw1jtErUS4A4jJjCIIsO8doGL2Igiw6R2gYl5HeA2wQvc2MMK5TsMYuOEdYl48pYKHLpXN46yNDoxFYBv/pdcyW3TfEBeKJbq/Ah7gX4DXHNBd+YuZuxw0K3RL+Aj8xL+Uvufn4bk+Aq7/v4w/3mLz+kz3oIsAAAAASUVORK5CYII=">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAABEtJREFUeJztnT1rFFEUhp+oaBKws7IQGxEbTaK/QBB/iiD4H67/QTEKqawsBVsTYhA7Sz8ChpRai+CKZC0mgkg2J7v3zp4797wPnDLDO+d9ZrI7WbIQjzVgHdgFRsC48RkBn4EnwEqB/Q2WZWAD/0I85wB4Bixl7nJwLAM7+BdQy2wTTILoV/5Rsw6wkLHUobAKvPcOUSFjYPW0d4o5kIBb3iEqZAE4iHAH2AWueIeolE8RBBgBZ71DVMrolHcC4cq5CALseweomQgCbHoHqJkIrwFW6N4GRjjXqYnwNvArcBG46R1E+LFI9/jT++lbdRPhDgDwG3gBXKC7E+jXwSFRBIBOglfAS7q/ip0/nDOeobzRlTB8xjk/HOFtoDgGCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRAcCRCcCAIk7wDClzFtS5D7ucDm+XuiyTlHX0gAg39PNvlG6QUJYPD/CSfXNOWRAAZHnXTyDFQYCWAw6cSTY6aSSACD404++cUqhgQwsBaQ3JKVQQIYnGQJyStcASSAwUkXkZzy5SIBDKZZRvKJmIUEMJh2Ickl5exIAINZlpI8gs6IBDCYdTHJIessSACDnOWk+cedGglgkLugNPfE0yEBDHIXVLsEEsCghAA1SyABDEoJUKsEEsCgpAA1SiABDEoLUJsEEsCgDwFqkkACGPQlQC0SFBVgEXgAvAN+FDh4hEkTipkXxQS4RvcFg94LHeKkifX0TxEBLgPfChws8qTJHfVKEQHeFDiQxkeCbAHuFjiIxk+CbAGeFziIxk+CbAH2ChxE4ydBtgC/ChxE4ydBVsYI/x9AGHzB/0ppcdIUHeSQfQd4O6egkXiI/xPCE3MH/6ulpUlTbT+f3LwAbBU4kGagD4IALtF9waL3Aoc86ZiS+qSIAABXgQ8FDhhx0sR6+qeYAADngPt0Lwy/Fzh4hEkTipkXRQVokZbLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmLRcPkgAk5bLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmLRcPkgAk5bLBwlg0nL5IAFMWi4fJIBJy+WDBDBpuXyQACYtlw8SwKTl8kECmCTvAD2TJcCCQ2BRlqyrWP8gIjgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgSIDgRBVgD1oFdYET+J2q8R5yQZWAD/8JqmxAsAzv4L7vGCYGu/AkT4TOBq8B77xC1EuFF4D3vADUTQYDb3gFqJsKvgBFw1jtErUS4A4jJjCIIsO8doGL2Igiw6R2gYl5HeA2wQvc2MMK5TsMYuOEdYl48pYKHLpXN46yNDoxFYBv/pdcyW3TfEBeKJbq/Ah7gX4DXHNBd+YuZuxw0K3RL+Aj8xL+Uvufn4bk+Aq7/v4w/3mLz+kz3oIsAAAAASUVORK5CYII=]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_9" displayName="1432134182_23_Play-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_10" displayName="1432134184_24_Stop-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_11" displayName="1432134253_03_In-128" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAA35JREFUeJzt3UFqU1EYhuE3QdDWVYhOpdUlOBPX4QoEx/8mSkPFmS6jShERBEV0IBZsXYBO1XSQOmhL05o0yT3n5OTe73vggEVM/3P/t3bUFLT0gEfAS+AAODo9B8AL4GG90ay0O8A74HjGeQvcrjSjFbIJ/GL28s/OT+BulUktu5vAIfMv/+x8B9YrzGuZPWXx5Z+dJxXmtcw+0DyA9xXmtcz+0DyA3xXmXape7QGW4Djx33f6GfVrD2B1OQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQNymA+8AA2AeGp+cbsM3Jb9/KLWj+Gz3mOalKzhYZ5rus8f7WgeczBh4BO8Ba5qFjxuft4okMz21c0v7WgTcLDL836UUSxQKfv+0nsjyxc8n7m1XOpDPIfAnQiCAyPatxSfu71/AiI2CjwGWi4TxtOJHtKZ1L3t8g4UJbBS4E3YwgMj6fccn72094ga+FLgXdiiCyPpmLkvc3THiBvwUvBt2IIDI/k8uS95d6wdIiw4xdXT4ZZlz5AKCdEUSB5zCJRADQrgiiyBOYTCYAaEcEUeju00gFAKsdQRS79XRyAcBqRhAF73sVyQBgtSKIoje9mmwAsBoRROE7ziIdANSNIIrfbjb5AKBOBLGEe83DAZwK9JYPDuCCQGv54AD+E+gsHxzARIHG8sEBTBV0f/ngAK4UdHv54ABmCrq7fHAAcwm6uXxwAHMLurd8cAALCbq1fHAACwu6s3xwAI0E3Vg+OIDGgvYvHxL3d63CwKsipvxZSo/0r+JejkGssaT9+R1CxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQFyOnwuwFvP/AOIcgDgHIM4BiHMA4hyAOAcgrg8c1R7Cqhn2gR+1p7BqDvrAq9pTWDW7PWAT+Ijf6kXNMbDRBz4BzyoPY8u3DXw5++AGsEf6W8b5tOO8Bq5zyRowAEYrMKBPmTMCtjj5ggcmf9/fBB4DD4BbTCjFWmUIHAK7wA7wefwv/wFa8PFQiWIqaAAAAABJRU5ErkJggg==">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAA35JREFUeJzt3UFqU1EYhuE3QdDWVYhOpdUlOBPX4QoEx/8mSkPFmS6jShERBEV0IBZsXYBO1XSQOmhL05o0yT3n5OTe73vggEVM/3P/t3bUFLT0gEfAS+AAODo9B8AL4GG90ay0O8A74HjGeQvcrjSjFbIJ/GL28s/OT+BulUktu5vAIfMv/+x8B9YrzGuZPWXx5Z+dJxXmtcw+0DyA9xXmtcz+0DyA3xXmXape7QGW4Djx33f6GfVrD2B1OQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQNymA+8AA2AeGp+cbsM3Jb9/KLWj+Gz3mOalKzhYZ5rus8f7WgeczBh4BO8Ba5qFjxuft4okMz21c0v7WgTcLDL836UUSxQKfv+0nsjyxc8n7m1XOpDPIfAnQiCAyPatxSfu71/AiI2CjwGWi4TxtOJHtKZ1L3t8g4UJbBS4E3YwgMj6fccn72094ga+FLgXdiiCyPpmLkvc3THiBvwUvBt2IIDI/k8uS95d6wdIiw4xdXT4ZZlz5AKCdEUSB5zCJRADQrgiiyBOYTCYAaEcEUeju00gFAKsdQRS79XRyAcBqRhAF73sVyQBgtSKIoje9mmwAsBoRROE7ziIdANSNIIrfbjb5AKBOBLGEe83DAZwK9JYPDuCCQGv54AD+E+gsHxzARIHG8sEBTBV0f/ngAK4UdHv54ABmCrq7fHAAcwm6uXxwAHMLurd8cAALCbq1fHAACwu6s3xwAI0E3Vg+OIDGgvYvHxL3d63CwKsipvxZSo/0r+JejkGssaT9+R1CxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQJwDEOcAxDkAcQ5AnAMQ5wDEOQBxDkCcAxDnAMQ5AHEOQFyOnwuwFvP/AOIcgDgHIM4BiHMA4hyAOAcgrg8c1R7Cqhn2gR+1p7BqDvrAq9pTWDW7PWAT+Ijf6kXNMbDRBz4BzyoPY8u3DXw5++AGsEf6W8b5tOO8Bq5zyRowAEYrMKBPmTMCtjj5ggcmf9/fBB4DD4BbTCjFWmUIHAK7wA7wefwv/wFa8PFQiWIqaAAAAABJRU5ErkJggg==]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_12" displayName="1432134276_25_Pause-128" icon="data:image/png;base64,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">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,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]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape><Shape id="img_13" displayName="1432134319_42_Trash_alt-128" icon="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAtdJREFUeJzt2ztuE2EYRuEzJCIX0VJT00RJKvbBGmAT7AIRSIRgFbRcIhYQiYJAGtgDTYyETTGAEAqWmYs/m/c80t9OvvxzPDOxMrB+DoFj4AKYALPiNQE+Ak+AgxF/73i7wHPqT/i8NQWeAjsj7UGsXeAt9Sd40XWKEQxq1T/5V62TUXYi0CH1J7PLmgL7I+zHoK5VD7CA+9UDdNQA96qH+B9cUP9p7rrOR9iPQTXVAyxgAlyvHqKjCbBdPcQ86xDArHqAnlZ6j9fhGUAjMoBwBhDOAMIZQDgDCGcA4TarB1iCvn+Hr/v3EHN5BQhnAOEMIJwBhDOAcAYQzgDCXRXAHvAQeA98of6/avpa95/fdy383sIW7QsX31ZgaNc466/vLWwBb1ZgQNdy1q/3FjZoHQF3UYpbwE3gRUN7zz/DB8I0M+BwA3gA3CkeRsvXANOG9mn/dvEwqvGhof1T70b1JCoxaWjvBQrlg184AwhnAOEMIJwBhDOAcAYQboh31/t+j7DS788vQen+eQUIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4Awm1WDwDMqgdI5hUgnAGEM4BwBhDOAMIZQDgDCDdEAF8HOIa6mfQ9wBABfB7gGOrmU98DDBHAqwGOoW5eVg8AcABMab/SdS1vTYG9Bc7PXENcAc6AZwMcR//mGHhXPcRPO8Ap9Z+KlPUa2F7ozCzRDnCCt4Mx1xR4zAqe/N/tA0fAOXBJ/aat+7r8sZePGOCe/6fvKl3PblmlVYUAAAAASUVORK5CYII=">
+        <Properties>
+            <PropertyGroup>
+                <Property name="box" type="Dimension" p:lockRatio="true">128,128</Property>
+                <Property name="imageData" type="ImageData"><![CDATA[128,128,data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAIAAAACACAYAAADDPmHLAAAABHNCSVQICAgIfAhkiAAAAAlwSFlzAAALEwAACxMBAJqcGAAAAtdJREFUeJzt2ztuE2EYRuEzJCIX0VJT00RJKvbBGmAT7AIRSIRgFbRcIhYQiYJAGtgDTYyETTGAEAqWmYs/m/c80t9OvvxzPDOxMrB+DoFj4AKYALPiNQE+Ak+AgxF/73i7wHPqT/i8NQWeAjsj7UGsXeAt9Sd40XWKEQxq1T/5V62TUXYi0CH1J7PLmgL7I+zHoK5VD7CA+9UDdNQA96qH+B9cUP9p7rrOR9iPQTXVAyxgAlyvHqKjCbBdPcQ86xDArHqAnlZ6j9fhGUAjMoBwBhDOAMIZQDgDCGcA4TarB1iCvn+Hr/v3EHN5BQhnAOEMIJwBhDOAcAYQzgDCXRXAHvAQeA98of6/avpa95/fdy383sIW7QsX31ZgaNc466/vLWwBb1ZgQNdy1q/3FjZoHQF3UYpbwE3gRUN7zz/DB8I0M+BwA3gA3CkeRsvXANOG9mn/dvEwqvGhof1T70b1JCoxaWjvBQrlg184AwhnAOEMIJwBhDOAcAYQboh31/t+j7DS788vQen+eQUIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4AwhlAOAMIZwDhDCCcAYQzgHAGEM4Awm1WDwDMqgdI5hUgnAGEM4BwBhDOAMIZQDgDCDdEAF8HOIa6mfQ9wBABfB7gGOrmU98DDBHAqwGOoW5eVg8AcABMab/SdS1vTYG9Bc7PXENcAc6AZwMcR//mGHhXPcRPO8Ap9Z+KlPUa2F7ozCzRDnCCt4Mx1xR4zAqe/N/tA0fAOXBJ/aat+7r8sZePGOCe/6fvKl3PblmlVYUAAAAASUVORK5CYII=]]></Property>
+                <Property name="withBlur" type="Bool" displayName="With Shadow">false</Property>
+            </PropertyGroup>
+            <PropertyGroup name="Background">
+                <Property name="fillColor" displayName="Background Color" type="Color">#ffffff00</Property>
+                <Property name="strokeColor" displayName="Border Color" type="Color">#000000ff</Property>
+                <Property name="strokeStyle" displayName="Border Style" type="StrokeStyle">0|</Property>
+            </PropertyGroup>
+        </Properties>
+        <Behaviors>
+            <For ref="imageContainer">
+                <Scale>
+                    <Arg>$box.w / $imageData.w</Arg>
+                    <Arg>$box.h / $imageData.h</Arg>
+                </Scale>
+            </For>
+            <For ref="bgRect">
+                <Box>$box.narrowed(0 - $strokeStyle.w)</Box>
+                <StrokeColor>$strokeColor</StrokeColor>
+                <StrokeStyle>$strokeStyle</StrokeStyle>
+                <Fill>$fillColor</Fill>
+                <Transform>"translate(" + [0 - $strokeStyle.w / 2, 0 - $strokeStyle.w / 2] + ")"</Transform>
+            </For>
+            <For ref="image">
+                <Image>$imageData</Image>
+            </For>
+            <For ref="bgCopy">
+                <ApplyFilter>$withBlur</ApplyFilter>
+                <Visibility>$withBlur</Visibility>
+            </For>
+        </Behaviors>
+        <Actions>
+            <Action id="toOriginalSize" displayName="To Original Size">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        this.setProperty("box", new Dimension(data.w, data.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioW" displayName="Correct Ratio by Width">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var h = Math.round(box.w * data.h / data.w);
+                        this.setProperty("box", new Dimension(box.w, h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="fixRatioH" displayName="Correct Ratio by Height">
+                <Impl>
+                    <![CDATA[
+                        var data = this.getProperty("imageData");
+                        var box = this.getProperty("box");
+                        var w = Math.round(box.h * data.w / data.h);
+                        this.setProperty("box", new Dimension(w, box.h));
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFile" displayName="Load Linked Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        });
+                    ]]>
+                    </Impl>
+            </Action>
+            <Action id="selectExternalFileEmbedded" displayName="Load Embedded Image...">
+                <Impl>
+                    <![CDATA[
+                        var thiz = this;
+                        ImageData.prompt(function(data) {
+                            if (!data) return;
+                            thiz.setProperty("imageData", data);
+                            thiz.setProperty("box", new Dimension(data.w, data.h));
+                            if (data.data.match(/\.png$/)) {
+                                thiz.setProperty("fillColor", Color.fromString("#ffffff00"));
+                            }
+                        }, "embedded");
+                    ]]>
+                    </Impl>
+            </Action>
+        </Actions>
+        <p:Content xmlns:p="http://www.evolus.vn/Namespace/Pencil" xmlns="http://www.w3.org/2000/svg">
+            <defs>
+                <filter id="imageShading" height="1.2558399" y="-0.12792" width="1.06396" x="-0.03198">
+                    <feGaussianBlur stdDeviation="1.3325" in="SourceAlpha"/>
+                </filter>
+                <g id="container">
+                    <rect id="bgRect" style="fill: none; stroke: none;"/>
+                    <g id="imageContainer">
+                        <image id="image" x="0" y="0" rx="128" ry="128"/>
+                    </g>
+                </g>
+            </defs>
+            <use xlink:href="#container" id="bgCopy" transform="translate(1, 1)" p:filter="url(#imageShading)" style=" opacity:0.6;"/>
+            <use xlink:href="#container"/>
+        </p:Content>
+    </Shape></Shapes>
